@@ -1,0 +1,3123 @@
+{
+  "isToday": true,
+  "launchDate": {
+    "zh_CN": "2020 年 10 月 23 日，星期五"
+  },
+  "preLaunchStartDate": {
+    "zh_CN": "2020 年 10 月 16 日，星期五"
+  },
+  "updated": 1604977650538,
+  "preLaunchStartTime": {
+    "zh_CN": "下午 8:00"
+  },
+  "stores": {
+    "R448": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R646": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R688": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R644": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R502": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R645": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R389": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R401": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": true,
+          "unlocked": true
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R643": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R388": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R609": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R705": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R703": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R648": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R572": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R573": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R471": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R493": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R571": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R670": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R390": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R479": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R534": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R557": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R579": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R359": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R576": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R532": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R577": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R478": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R574": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R476": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R531": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R639": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R637": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R638": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R484": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R320": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R683": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R581": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R480": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    },
+    "R580": {
+      "MGLL3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLA3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLD3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLJ3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLF3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGL93CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLE3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLH3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLM3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLC3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLG3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      },
+      "MGLK3CH/A": {
+        "availability": {
+          "contract": false,
+          "unlocked": false
+        }
+      }
+    }
+  }
+}

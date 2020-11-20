@@ -1,0 +1,401 @@
+{
+  "stores": [
+    {
+      "storeNumber": "R705",
+      "city": "上海",
+      "latitude": "31.156105",
+      "storeName": "七宝",
+      "enabled": true,
+      "longitude": "121.345228"
+    },
+    {
+      "storeNumber": "R320",
+      "city": "北京",
+      "latitude": "39.933456",
+      "storeName": "三里屯",
+      "enabled": true,
+      "longitude": "116.447967"
+    },
+    {
+      "storeNumber": "R401",
+      "city": "上海",
+      "latitude": "31.217679",
+      "storeName": "上海环贸 iapm ",
+      "enabled": true,
+      "longitude": "121.453441"
+    },
+    {
+      "storeNumber": "R534",
+      "city": "沈阳",
+      "latitude": "41.800213",
+      "storeName": "中街大悦城",
+      "enabled": true,
+      "longitude": "123.462022"
+    },
+    {
+      "storeNumber": "R581",
+      "city": "上海",
+      "latitude": "31.3016666666666",
+      "storeName": "五角场",
+      "enabled": true,
+      "longitude": "121.514166666"
+    },
+    {
+      "storeNumber": "R479",
+      "city": "北京",
+      "latitude": "39.90804",
+      "storeName": "华贸购物中心",
+      "enabled": true,
+      "longitude": "116.47316"
+    },
+    {
+      "storeNumber": "R359",
+      "city": "上海",
+      "latitude": "31.23943",
+      "storeName": "南京东路",
+      "enabled": true,
+      "longitude": "121.47954"
+    },
+    {
+      "storeNumber": "R493",
+      "city": "南京",
+      "latitude": "32.048234",
+      "storeName": "南京艾尚天地",
+      "enabled": true,
+      "longitude": "118.779405"
+    },
+    {
+      "storeNumber": "R703",
+      "city": "南京",
+      "latitude": "32.074006",
+      "storeName": "南京金茂汇",
+      "enabled": true,
+      "longitude": "118.778214"
+    },
+    {
+      "storeNumber": "R571",
+      "city": "南宁",
+      "latitude": "22.814123",
+      "storeName": "南宁万象城",
+      "enabled": true,
+      "longitude": "108.388345"
+    },
+    {
+      "storeNumber": "R644",
+      "city": "厦门",
+      "latitude": "24.5024",
+      "storeName": "厦门新生活广场",
+      "enabled": true,
+      "longitude": "118.1204"
+    },
+    {
+      "storeNumber": "R609",
+      "city": "大连",
+      "latitude": "38.90586527241653",
+      "storeName": "大连恒隆广场",
+      "enabled": true,
+      "longitude": "121.6053125334242"
+    },
+    {
+      "storeNumber": "R531",
+      "city": "宁波",
+      "latitude": "29.872722",
+      "storeName": "天一广场",
+      "enabled": true,
+      "longitude": "121.549272"
+    },
+    {
+      "storeNumber": "R638",
+      "city": "天津",
+      "latitude": "39.08892",
+      "storeName": "天津万象城",
+      "enabled": true,
+      "longitude": "117.20707"
+    },
+    {
+      "storeNumber": "R637",
+      "city": "天津",
+      "latitude": "39.134588",
+      "storeName": "天津大悦城",
+      "enabled": true,
+      "longitude": "117.173993"
+    },
+    {
+      "storeNumber": "R579",
+      "city": "天津",
+      "latitude": "39.12662",
+      "storeName": "天津恒隆广场",
+      "enabled": true,
+      "longitude": "117.19388"
+    },
+    {
+      "storeNumber": "R577",
+      "city": "广州",
+      "latitude": "23.135",
+      "storeName": "天环广场 ",
+      "enabled": true,
+      "longitude": "113.31916"
+    },
+    {
+      "storeNumber": "R502",
+      "city": "成都",
+      "latitude": "30.652387",
+      "storeName": "成都万象城",
+      "enabled": true,
+      "longitude": "104.112546"
+    },
+    {
+      "storeNumber": "R580",
+      "city": "成都",
+      "latitude": "30.653748",
+      "storeName": "成都太古里",
+      "enabled": true,
+      "longitude": "104.080782"
+    },
+    {
+      "storeNumber": "R574",
+      "city": "无锡",
+      "latitude": "31.576872",
+      "storeName": "无锡恒隆广场",
+      "enabled": true,
+      "longitude": "120.29362"
+    },
+    {
+      "storeNumber": "R670",
+      "city": "昆明",
+      "latitude": "25.0391666",
+      "storeName": "昆明",
+      "enabled": true,
+      "longitude": "102.706111"
+    },
+    {
+      "storeNumber": "R645",
+      "city": "北京",
+      "latitude": "39.923571285",
+      "storeName": "朝阳大悦城",
+      "enabled": true,
+      "longitude": "116.511624104"
+    },
+    {
+      "storeNumber": "R532",
+      "city": "杭州",
+      "latitude": "30.254012",
+      "storeName": "杭州万象城",
+      "enabled": true,
+      "longitude": "120.210154"
+    },
+    {
+      "storeNumber": "R576",
+      "city": "沈阳",
+      "latitude": "41.77235",
+      "storeName": "沈阳万象城",
+      "enabled": true,
+      "longitude": "123.42897"
+    },
+    {
+      "storeNumber": "R646",
+      "city": "福州",
+      "latitude": "26.09336",
+      "storeName": "泰禾广场",
+      "enabled": true,
+      "longitude": "119.331828"
+    },
+    {
+      "storeNumber": "R648",
+      "city": "济南",
+      "latitude": "36.664099",
+      "storeName": "济南恒隆广场",
+      "enabled": true,
+      "longitude": "117.018213"
+    },
+    {
+      "storeNumber": "R389",
+      "city": "上海",
+      "latitude": "31.23937",
+      "storeName": "浦东",
+      "enabled": true,
+      "longitude": "121.49695"
+    },
+    {
+      "storeNumber": "R484",
+      "city": "深圳",
+      "latitude": "22.53986",
+      "storeName": "深圳益田假日广场",
+      "enabled": true,
+      "longitude": "113.97079"
+    },
+    {
+      "storeNumber": "R448",
+      "city": "北京",
+      "latitude": "39.913621",
+      "storeName": "王府井",
+      "enabled": true,
+      "longitude": "116.405781"
+    },
+    {
+      "storeNumber": "R683",
+      "city": "上海",
+      "latitude": "31.23361111111111",
+      "storeName": "环球港",
+      "enabled": true,
+      "longitude": "121.40722222222222"
+    },
+    {
+      "storeNumber": "R639",
+      "city": "广州",
+      "latitude": "23.11843672960212",
+      "storeName": "珠江新城",
+      "enabled": true,
+      "longitude": "113.32728981971741"
+    },
+    {
+      "storeNumber": "R478",
+      "city": "大连",
+      "latitude": "38.91494",
+      "storeName": "百年城",
+      "enabled": true,
+      "longitude": "121.631667"
+    },
+    {
+      "storeNumber": "R688",
+      "city": "苏州",
+      "latitude": "31.318124",
+      "storeName": "苏州",
+      "enabled": true,
+      "longitude": "120.672737"
+    },
+    {
+      "storeNumber": "R643",
+      "city": "南京",
+      "latitude": "32.011387",
+      "storeName": "虹悦城",
+      "enabled": true,
+      "longitude": "118.759761"
+    },
+    {
+      "storeNumber": "R388",
+      "city": "北京",
+      "latitude": "39.90917",
+      "storeName": "西单大悦城",
+      "enabled": true,
+      "longitude": "116.36727"
+    },
+    {
+      "storeNumber": "R471",
+      "city": "杭州",
+      "latitude": "30.256553",
+      "storeName": "西湖",
+      "enabled": true,
+      "longitude": "120.158777"
+    },
+    {
+      "storeNumber": "R480",
+      "city": "重庆",
+      "latitude": "29.560981",
+      "storeName": "解放碑",
+      "enabled": true,
+      "longitude": "106.572272"
+    },
+    {
+      "storeNumber": "R572",
+      "city": "郑州",
+      "latitude": "34.755756",
+      "storeName": "郑州万象城",
+      "enabled": true,
+      "longitude": "113.656689"
+    },
+    {
+      "storeNumber": "R573",
+      "city": "重庆",
+      "latitude": "29.518192",
+      "storeName": "重庆万象城",
+      "enabled": true,
+      "longitude": "106.514417"
+    },
+    {
+      "storeNumber": "R476",
+      "city": "重庆",
+      "latitude": "29.580283",
+      "storeName": "重庆北城天街",
+      "enabled": true,
+      "longitude": "106.529328"
+    },
+    {
+      "storeNumber": "R557",
+      "city": "青岛",
+      "latitude": "36.06571",
+      "storeName": "青岛万象城",
+      "enabled": true,
+      "longitude": "120.3746"
+    },
+    {
+      "storeNumber": "R390",
+      "city": "上海",
+      "latitude": "31.22555",
+      "storeName": "香港广场",
+      "enabled": true,
+      "longitude": "121.46994"
+    }
+  ],
+  "config": {
+    "updatedTime": 1604977660008,
+    "supportedDomains": {
+      "1": "http://www.apple.com/",
+      "2": "http://storeint.apple.com/",
+      "3": "http://epp.apple.com/",
+      "4": "applestore://",
+      "0": "https://www.apple.com/cn/iphone/"
+    },
+    "iUPEnabled": true,
+    "postLaunchStartDate": 1603404000000,
+    "contractOptionsEnabled": false,
+    "appleCarePreference": {
+      "U": {
+        "defaultAppleCare": true,
+        "considerUserPreference": false
+      },
+      "E": {
+        "defaultAppleCare": true,
+        "considerUserPreference": false
+      },
+      "N": {
+        "defaultAppleCare": false,
+        "considerUserPreference": false
+      }
+    },
+    "timezone": "Asia/Shanghai",
+    "preorderStartDate": 1602849600000,
+    "productGridEnabled": false,
+    "launchDate": 1603382400000,
+    "currencyFormat": "RMB GGG,GGG",
+    "activeChannels": [
+      "AOS",
+      "ASA",
+      "IRES"
+    ],
+    "prsContractOptions": "BOTH",
+    "displayState": false,
+    "preorderEndDate": 1603382340000,
+    "numberFormat": "A,AAA.DD",
+    "reservableQuantity": {
+      "U": 1,
+      "E": 2,
+      "N": 2
+    },
+    "productPricingPreference": {
+      "U": {
+        "useDisplayPrice": true,
+        "useInstallmentPrice": false
+      },
+      "E": {
+        "useDisplayPrice": true,
+        "useInstallmentPrice": false
+      },
+      "N": {
+        "useDisplayPrice": true,
+        "useInstallmentPrice": false
+      }
+    },
+    "reservationURL": "https://reserve-prime.apple.com/CN/zh_CN/reserve/A"
+  }
+}
