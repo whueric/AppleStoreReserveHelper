@@ -4,6 +4,7 @@
 - Python 3及以上版本
 
 ## 使用说明
+0. 本代码只适用于中国大陆地区Apple零售店预约iPhone 12系列
 1. 按照iPhone SKU对照表和零售店对照表确定手机型号、零售店编号
 2. 修改**main.py**文件中的**BUY_MODEL**和**BUY_CITY**变量，指定预约型号和城市
 3. 修改**main.py**文件中的**BUY_STORE**，指定预约零售店编号 
